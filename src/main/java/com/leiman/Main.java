@@ -12,5 +12,6 @@ public class Main {
         System.out.println("git test third");
         System.out.println("git test four");
         System.out.println("git test five");
+        System.out.println("git push test");
     }
 }
